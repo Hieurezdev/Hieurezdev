@@ -21,7 +21,7 @@
 
 - 💼 I'm currently working on: **I'm a sophomore in PTIT**
 - 🌱 I'm currently learning: **I'm majoring Information Technology**
-- 💬 Ask me about: **Python, DSA, Numpy, Pandas, Matplotblib**
+- 💬 Ask me about: **Python, DSA, Numpy, Pandas, Matplotblib, Machine Learning, Deep Learning**
 - ⚡ Fun fact: **I always have a cup of coffee when I have a lot of difficult bugs**
 
  **<h3 align="left">Skills</h3>**
