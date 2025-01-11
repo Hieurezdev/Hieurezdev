@@ -12,25 +12,24 @@
   </ul>
 </div>
 
-**<h3 align="left">Connect with me:</h3>** 
-<p align="left"><a href="nguyenphamtrunghieu277@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=plastic&logo=gmail&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.facebook.com/nguyen.hieu277/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=plastic&logo=facebook&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://github.com/https://github.com/Nguyenhieu277?tab=projects" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=plastic&logo=github&logoColor=white" height="28" style="margin-right: 4px"></a></p>
+# 💫 About Me:
+- 💼 I'm currently working on: **I'm a sophomore in PTIT**<br>- 🌱 I'm currently learning: **I'm majoring Computer Science**<br>- 💬 Ask me about: **Python, DSA, Machine Learning, Deep Learning, NLP, Computer Vision**<br>- ⚡ Fun fact: **I always have a cup of coffee when I have a lot of difficult bugs**<br>
 
- **<h3 align="center">Hi, My full name is Nguyen Pham Trung Hieu, you can call me HiuDev is short! I'm aspiring to become an AI Engineer. I wanna learn about and enhance my skills in AI, Data Science, and Cloud Computing. I aim to apply this knowledge to solve real-world problems and contribute to impactful projects that make a difference in the community.🧑‍💻</h3>**
 
-**<h3 align="left">Rapid Fire</h3>**
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/nguyen.hieu277/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_hiudev_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/hi%E1%BA%BFu-nguy%E1%BB%85n-b6863b328/?trk=opento_sprofile_topcard) 
 
-- 💼 I'm currently working on: **I'm a sophomore in PTIT**
-- 🌱 I'm currently learning: **I'm majoring Information Technology**
-- 💬 Ask me about: **Python, DSA, Numpy, Pandas, Matplotblib, Machine Learning, Deep Learning**
-- ⚡ Fun fact: **I always have a cup of coffee when I have a lot of difficult bugs**
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Nguyenhieu277&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Nguyenhieu277&theme=shadow_blue&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nguyenhieu277&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
- **<h3 align="left">Skills</h3>**
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-<div style="display: flex; flex-wrap: wrap; gap: 4px; justify-content: left;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="32" alt="Python" style="margin-right: 4px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="32" alt="C++" style="margin-right: 4px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" height="32" alt="GitHub" style="margin-right: 4px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original-wordmark.svg" height="32" alt="GitLab" style="margin-right: 4px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" height="32" alt="Pandas" style="margin-right: 4px"> <img src="https://skillicons.dev/icons?i=c" height="32" alt="C" style="margin-right: 4px"></div>
+---
+[![](https://visitcount.itsvg.in/api?id=Nguyenhieu277&icon=0&color=0)](https://visitcount.itsvg.in)
 
- **<h3 align="left">GitHub Stats</h3>**
-
-<p align="left">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=nguyenhieu277&theme=react&hide_title=false&layout=compact&langs_count=6&hide_progress=false&card_width=400" alt="GitHub top-langs Card" />
-</p>
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
