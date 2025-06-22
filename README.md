@@ -13,9 +13,9 @@
 </div>
 
 # 💫 About Me:
-- 💼 I'm currently working on: **I'm a sophomore in PTIT**<br>
+- 💼 I'm currently working on: **I'm a junior student in PTIT**<br>
 - 🌱 I'm currently learning: **I'm majoring Computer Science**<br>
-- 💬 Ask me about: **Python, DSA, Machine Learning, Deep Learning, NLP, Computer Vision**<br>
+- 💬 Ask me about: **Python, DSA, Machine Learning, Deep Learning, NLP, LLMs**<br>
 - ⚡ Fun fact: **I always have a cup of coffee when I have a lot of difficult bugs**<br>
 
 
