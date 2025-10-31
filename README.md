@@ -19,6 +19,9 @@
 - ⚡ Fun fact: **I always have a cup of coffee when I have a lot of difficult bugs**<br>
 
 
+<img width="676" height="483" alt="image" src="https://github.com/user-attachments/assets/e457e2aa-99fe-4b42-b543-adf8fbac62de" />
+
+
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/nguyen.hieu277/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_hiudev_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/hiếu-nguyễn-b6863b328) 
 
@@ -28,7 +31,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=Hieurezdev&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Hieurezdev&theme=shadow_blue&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hieurezdev&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-<img width="676" height="483" alt="image" src="https://github.com/user-attachments/assets/e457e2aa-99fe-4b42-b543-adf8fbac62de" />
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
