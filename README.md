@@ -28,6 +28,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=Hieurezdev&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Hieurezdev&theme=shadow_blue&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hieurezdev&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<img width="676" height="483" alt="image" src="https://github.com/user-attachments/assets/e457e2aa-99fe-4b42-b543-adf8fbac62de" />
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
