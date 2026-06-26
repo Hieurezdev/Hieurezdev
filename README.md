@@ -82,7 +82,7 @@
 
 # 📊 GitHub Stats:
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nghuynat&show_icons=true&locale=en&theme=dracula&hide_border=true&bg_color=0D1117" height="195" alt="hieurezdev stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hieurezdev&show_icons=true&locale=en&theme=dracula&hide_border=true&bg_color=0D1117" height="195" alt="hieurezdev stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nghuynat&show_icons=true&locale=en&layout=compact&theme=dracula&hide_border=true&bg_color=0D1117" height="195" alt="hieurezdev top langs" />
 </div>
 <br>
