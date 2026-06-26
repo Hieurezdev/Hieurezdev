@@ -81,10 +81,24 @@
 <br/>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Hieurezdev&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Hieurezdev&theme=shadow_blue&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hieurezdev&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nghuynat&show_icons=true&locale=en&theme=dracula&hide_border=true&bg_color=0D1117" height="195" alt="hieurezdev stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nghuynat&show_icons=true&locale=en&layout=compact&theme=dracula&hide_border=true&bg_color=0D1117" height="195" alt="hieurezdev top langs" />
+</div>
+<br>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hieurezdev&theme=dracula&hide_border=true&background=0D1117" alt="hieurezdev streak" />
+</div>
+<br>
 
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hieurezdev/hieurezdev/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hieurezdev/hieurezdev/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/hieurezdev/hieurezdev/output/github-contribution-grid-snake.svg">
+  </picture>
+  <h4><img src="https://api.iconify.design/lucide:calendar-days.svg?color=%2358A6FF" width="22" height="22" /> Contributions (Last 365 Days)</h4>
+</div>
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
